@@ -1,14 +1,14 @@
 {
     "name": "myvtrui",
     "description": "Deploy myvtrui on Heroku.",
-    "keywords": ["V2Ray"],
+    "keywords": ["myvtrui"],
     "env": {
         "UUID": {
-            "description": "V2Ray UUID",
+            "description": "myvtrui UUID",
             "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://www.baidu.com/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/chnrui/myvtrui",
     "stack": "container"
 }
